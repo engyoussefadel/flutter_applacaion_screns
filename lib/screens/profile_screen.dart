@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_scren/screens/notificatios/notifications_screen.dart';
-import 'package:flutter_application_scren/screens/widget/profile_menu_item.dart';
+import 'package:flutter_application_scren/core/widget/profile_menu_item.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});

@@ -1,8 +1,8 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_scren/screens/creat_account/creat_account.dart';
-import 'package:flutter_application_scren/screens/login_screen.dart';
+import 'package:flutter_application_scren/screens/auth/register_screen.dart';
+import 'package:flutter_application_scren/screens/auth/login_screen.dart';
 import 'package:flutter_application_scren/splash_screens.dart';
 
 class LoginSplashScreen extends StatelessWidget {

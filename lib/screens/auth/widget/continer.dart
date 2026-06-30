@@ -1,13 +1,11 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_scren/main.dart';
-import 'package:flutter_application_scren/screens/creat_account/widget/row_text_by.dart';
-import 'package:flutter_application_scren/screens/creat_account/widget/signup_creat_account.dart';
-import 'package:flutter_application_scren/screens/forgot_password/forgot_password.dart';
+import 'package:flutter_application_scren/screens/auth/widget/row_text_by.dart';
+import 'package:flutter_application_scren/screens/auth/widget/signup_creat_account.dart';
 import 'package:flutter_application_scren/screens/home_screen.dart';
-import 'package:flutter_application_scren/screens/login_screen.dart';
-import 'package:flutter_application_scren/screens/widget/password_text_form_filed.dart';
-import 'package:flutter_application_scren/screens/widget/text_form_filed.dart';
+import 'package:flutter_application_scren/screens/auth/login_screen.dart';
+import 'package:flutter_application_scren/core/widget/password_text_form_filed.dart';
+import 'package:flutter_application_scren/core/widget/text_form_filed.dart';
 
 class Continer extends StatelessWidget {
   const Continer({super.key});

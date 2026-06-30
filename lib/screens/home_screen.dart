@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_scren/screens/widget/bottom_nav.dart';
-import 'package:flutter_application_scren/screens/widget/home_header.dart';
-import 'package:flutter_application_scren/screens/widget/savings_card.dart';
-import 'package:flutter_application_scren/screens/widget/tabs_selector.dart';
-import 'package:flutter_application_scren/screens/widget/transaction_item.dart';
+import 'package:flutter_application_scren/core/widget/bottom_nav.dart';
+import 'package:flutter_application_scren/core/widget/home_header.dart';
+import 'package:flutter_application_scren/core/widget/savings_card.dart';
+import 'package:flutter_application_scren/core/widget/tabs_selector.dart';
+import 'package:flutter_application_scren/core/widget/transaction_item.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

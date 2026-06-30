@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_scren/screens/creat_account/widget/continer.dart';
+import 'package:flutter_application_scren/screens/auth/widget/continer.dart';
 
 class CreatAccount extends StatelessWidget {
   const CreatAccount({super.key});

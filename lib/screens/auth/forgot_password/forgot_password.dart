@@ -1,11 +1,11 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_scren/screens/forgot_password/widgets/next_step.dart';
-import 'package:flutter_application_scren/screens/forgot_password/widgets/row_text_dont_have_have_account.dart';
-import 'package:flutter_application_scren/screens/forgot_password/widgets/text_or_sign_up_with.dart';
-import 'package:flutter_application_scren/screens/widget/icon_row.dart';
-import 'package:flutter_application_scren/screens/widget/sign_up_continer.dart';
-import 'package:flutter_application_scren/screens/widget/text_form_filed.dart';
+import 'package:flutter_application_scren/screens/auth/forgot_password/widgets/next_step.dart';
+import 'package:flutter_application_scren/screens/auth/forgot_password/widgets/row_text_dont_have_have_account.dart';
+import 'package:flutter_application_scren/screens/auth/forgot_password/widgets/text_or_sign_up_with.dart';
+import 'package:flutter_application_scren/core/widget/icon_row.dart';
+import 'package:flutter_application_scren/core/widget/sign_up_continer.dart';
+import 'package:flutter_application_scren/core/widget/text_form_filed.dart';
 
 class ForgotPassword extends StatelessWidget {
   const ForgotPassword({super.key});

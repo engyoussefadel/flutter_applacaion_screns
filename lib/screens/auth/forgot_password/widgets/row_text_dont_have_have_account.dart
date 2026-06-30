@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_scren/screens/creat_account/creat_account.dart';
+import 'package:flutter_application_scren/screens/auth/new_password/new_password.dart';
 
-class RowTextDontHaveAccount extends StatelessWidget {
-  const RowTextDontHaveAccount({super.key});
+class RowTextDontHaveHaveAccount extends StatelessWidget {
+  const RowTextDontHaveHaveAccount({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -16,7 +16,7 @@ class RowTextDontHaveAccount extends StatelessWidget {
         ),
         InkWell(
           onTap: () {
-            Navigator.push(context, MaterialPageRoute(builder: (context)=>CreatAccount()));
+            Navigator.push(context, MaterialPageRoute(builder: (context)=>NewPassword()));
           },
           child: Text(" Sign Up",style: TextStyle(
             fontSize: 13,

@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_scren/screens/changed_successfully/changed_successfully.dart';
+import 'package:flutter_application_scren/screens/auth/changed_successfully_screen.dart';
 
 class ContinerChangePassword extends StatelessWidget {
   const ContinerChangePassword({super.key});

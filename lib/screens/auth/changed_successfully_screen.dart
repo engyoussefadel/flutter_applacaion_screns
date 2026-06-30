@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_scren/screens/login_screen.dart';
+import 'package:flutter_application_scren/screens/auth/login_screen.dart';
 
 class ChangedSuccessfully extends StatefulWidget {
   const ChangedSuccessfully({super.key});

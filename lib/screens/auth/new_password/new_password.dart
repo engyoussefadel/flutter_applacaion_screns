@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_scren/screens/new_password/widgets/continer_change_password.dart';
-import 'package:flutter_application_scren/screens/widget/password_text_form_filed.dart';
+import 'package:flutter_application_scren/screens/auth/new_password/widgets/continer_change_password.dart';
+import 'package:flutter_application_scren/core/widget/password_text_form_filed.dart';
 
 class NewPassword extends StatelessWidget {
   const NewPassword({super.key});
